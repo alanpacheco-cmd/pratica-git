@@ -1,0 +1,3 @@
+O que aprendi sobre Git:
+
+Aprendi que o Git permite controlar as versoes dos arquivos de um projeto. Tambem aprendi a criar repositorios, adicionar arquivos, registrar commits, comparar alteracoes com git diff e enviar projetos para o GitHub. Entendi que o GitHub permite armazenar os projetos online e compartilhar o codigo com outras pessoas.
