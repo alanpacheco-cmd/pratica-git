@@ -5,3 +5,4 @@ Comandos para iniciar um projeto Git:
 3. git add - Prepara arquivos para o proximo commit.
 4. git commit - Registra uma versao dos arquivos.
 5. git push - Envia os commits para um repositorio remoto.
+6. git diff - Mostra as alteracoes feitas antes de preparar o commit. 
