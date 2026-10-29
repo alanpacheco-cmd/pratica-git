@@ -1,0 +1,5 @@
+Comandos Git que aprendi:
+
+1. git init - Inicia um repositório Git na pasta.
+2. git add - Prepara os arquivos para serem salvos em um commit.
+3. git commit - Registra uma versão dos arquivos no histórico do Git.
